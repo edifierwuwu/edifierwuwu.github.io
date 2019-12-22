@@ -3,11 +3,11 @@
   <title>世间美好与你环环相扣</title>
   
   <subtitle>你未必出类拔萃，但一定要与众不同</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="edifierwuwu.github.io/blog/"/>
+  <link href="http://yoursite.com/child/"/>
   <updated>2019-12-21T08:47:31.471Z</updated>
-  <id>edifierwuwu.github.io/blog/</id>
+  <id>http://yoursite.com/child/</id>
   
   <author>
     <name>Jessie Wu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>mynewpost</title>
-    <link href="2019/12/21/mynewpost/"/>
-    <id>2019/12/21/mynewpost/</id>
+    <link href="http://yoursite.com/child/2019/12/21/mynewpost/"/>
+    <id>http://yoursite.com/child/2019/12/21/mynewpost/</id>
     <published>2019-12-21T08:46:38.000Z</published>
     <updated>2019-12-21T08:47:31.471Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="2019/12/21/hello-world/"/>
-    <id>2019/12/21/hello-world/</id>
+    <link href="http://yoursite.com/child/2019/12/21/hello-world/"/>
+    <id>http://yoursite.com/child/2019/12/21/hello-world/</id>
     <published>2019-12-21T08:23:39.569Z</published>
     <updated>2019-12-21T08:23:39.569Z</updated>
     
